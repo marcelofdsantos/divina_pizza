@@ -1,7 +1,8 @@
 # 🍕 Divina Pizza
 
 Bem-vindo ao projeto **Divina Pizza**! Este é um aplicativo de pizzaria desenvolvido com as seguintes tecnologias:
-![pizzaria](https://github.com/user-attachments/assets/ba990b35-f3bf-4182-ae2e-bf52ca2393ac)
+![pizzaria](https://github.com/user-attachments/assets/d342ac06-33ff-440a-8d55-440f75f68c3a)
+
 
 - **React.js**: Uma biblioteca JavaScript para construir interfaces de usuário.
 - **Tailwind CSS**: Um framework de utilitários CSS para criar designs modernos e responsivos.
@@ -22,7 +23,8 @@ O **Divina Pizza** é um aplicativo web que permite aos usuários explorar o car
 - **Vite**: Ferramenta de build rápida que melhora a experiência de desenvolvimento com recarregamento instantâneo e otimização de produção.
 
 ## Aproveite o desenvolvimento e divirta-se com o Divina Pizza! 🎉
-![codigo](https://github.com/user-attachments/assets/e90483e8-cdd7-4bbe-b645-fc07175bfd58)
+![codigo](https://github.com/user-attachments/assets/4e93912d-f61c-4238-a6d0-201a1e2f6515)
+
 
 - Essa seção agora inclui a descrição da animação personalizada e como ela é aplicada ao ícone da pizza, destacando o efeito visual no design do aplicativo. 🍕
 
