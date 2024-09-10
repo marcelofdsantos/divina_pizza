@@ -10,7 +10,7 @@ Bem-vindo ao projeto **Divina Pizza**! Este é um aplicativo de pizzaria desenvo
 
 ## Descrição do Projeto
 
-O **Divina Pizza** é um aplicativo web que permite aos usuários explorar o cardápio de uma pizzaria, fazer pedidos online e ver detalhes sobre cada pizza. O aplicativo inclui funcionalidades como:
+O **Divina Pizza** é um aplicativo web que permite aos usuários explorar o cardápio de uma pizzaria, fazer pedidos online e ver detalhes sobre cada pizza. O aplicativo inclui funcionalidades como: [Divina Pizza](https://divina-pizza.vercel.app/)
 
 - 🍕 Visualização do cardápio com imagens e descrições das pizzas.
 - 🍴 Opções de personalização e seleção de ingredientes.
